@@ -1,0 +1,15 @@
+C:\Users\NgocThien\source\repos\r4clothes\R4Clothes.Shared\bin\Debug\net5.0\R4Clothes.Shared.deps.json
+C:\Users\NgocThien\source\repos\r4clothes\R4Clothes.Shared\bin\Debug\net5.0\R4Clothes.Shared.runtimeconfig.json
+C:\Users\NgocThien\source\repos\r4clothes\R4Clothes.Shared\bin\Debug\net5.0\R4Clothes.Shared.runtimeconfig.dev.json
+C:\Users\NgocThien\source\repos\r4clothes\R4Clothes.Shared\bin\Debug\net5.0\R4Clothes.Shared.dll
+C:\Users\NgocThien\source\repos\r4clothes\R4Clothes.Shared\bin\Debug\net5.0\ref\R4Clothes.Shared.dll
+C:\Users\NgocThien\source\repos\r4clothes\R4Clothes.Shared\bin\Debug\net5.0\R4Clothes.Shared.pdb
+C:\Users\NgocThien\source\repos\r4clothes\R4Clothes.Shared\obj\Debug\net5.0\R4Clothes.Shared.csproj.AssemblyReference.cache
+C:\Users\NgocThien\source\repos\r4clothes\R4Clothes.Shared\obj\Debug\net5.0\R4Clothes.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NgocThien\source\repos\r4clothes\R4Clothes.Shared\obj\Debug\net5.0\R4Clothes.Shared.AssemblyInfoInputs.cache
+C:\Users\NgocThien\source\repos\r4clothes\R4Clothes.Shared\obj\Debug\net5.0\R4Clothes.Shared.AssemblyInfo.cs
+C:\Users\NgocThien\source\repos\r4clothes\R4Clothes.Shared\obj\Debug\net5.0\R4Clothes.Shared.csproj.CoreCompileInputs.cache
+C:\Users\NgocThien\source\repos\r4clothes\R4Clothes.Shared\obj\Debug\net5.0\R4Clothes.Shared.dll
+C:\Users\NgocThien\source\repos\r4clothes\R4Clothes.Shared\obj\Debug\net5.0\ref\R4Clothes.Shared.dll
+C:\Users\NgocThien\source\repos\r4clothes\R4Clothes.Shared\obj\Debug\net5.0\R4Clothes.Shared.pdb
+C:\Users\NgocThien\source\repos\r4clothes\R4Clothes.Shared\obj\Debug\net5.0\R4Clothes.Shared.genruntimeconfig.cache
